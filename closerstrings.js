@@ -14,5 +14,3 @@ console.log("\n")
 //Loop over string
 var strings = "abdef";
 Loop(strings);
-Loop();
-
